@@ -13,7 +13,7 @@ Install and activate the environment using conda
 
 `conda activate tf`
 
-*******Datasets******
+******Datasets******
 
 The symbol recognition model is trained using the Kaggle handwritten symbol dataset https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols.
 
@@ -21,7 +21,7 @@ Add a folder called "Data" in the base directory. Inside this folder add '+', '-
 
 Run `solver_data.py` to create the training dataset.
 
-******To train model*******
+******To train model******
 
 Run `solver_training.py` to train the model.
 
