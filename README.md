@@ -25,7 +25,7 @@ Run `solver_data.py` to create the training dataset.
 
 Run `solver_training.py` to train the model.
 
-******To run PyQt5 application*******
+******To run PyQt5 application******
 
 Start the application.
 
